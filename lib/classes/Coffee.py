@@ -26,5 +26,6 @@ class Coffee:
     def num_orders(self):
         return len(self._orders)
     
+    # Potentially something that could be used on the code challenge
     def average_price(self):
         return sum([order.price for order in self._orders]) / len(self._orders)
