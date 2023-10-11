@@ -32,38 +32,6 @@ class Customer:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # class Customer:
 
 #     all = []
